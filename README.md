@@ -1,0 +1,4 @@
+MagicMan
+========
+
+The magical man
